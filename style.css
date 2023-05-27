@@ -93,21 +93,21 @@ body{
     align-items: center;
 }
 
-    /* width of the entire scrollbar */
+    /* largura de toda a barra de rolagem */
 body::-webkit-scrollbar {
     width: 12px;               
 }
 
-    /* color of the tracking area */
+    /* cor da área de rastreamento */
 body::-webkit-scrollbar-track {
     background: rgb(207, 207, 207);        
 }
   
   body::-webkit-scrollbar-thumb {
-    /* color of the scroll thumb */
+    /* cor do polegar de rolagem */
     background-color: rgb(117, 117, 117);    
-    /* roundness of the scroll thumb */
+    /* arredondamento do polegar de rolagem */
     border-radius: 20px;       
-    /* creates padding around scroll thumb */
+    /* cria preenchimento ao redor do polegar de rolagem */
     border: 3px solid rgb(150, 150, 150);  
 }
