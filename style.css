@@ -92,3 +92,22 @@ body{
     justify-content: center;
     align-items: center;
 }
+
+    /* width of the entire scrollbar */
+body::-webkit-scrollbar {
+    width: 12px;               
+}
+
+    /* color of the tracking area */
+body::-webkit-scrollbar-track {
+    background: rgb(207, 207, 207);        
+}
+  
+  body::-webkit-scrollbar-thumb {
+    /* color of the scroll thumb */
+    background-color: rgb(117, 117, 117);    
+    /* roundness of the scroll thumb */
+    border-radius: 20px;       
+    /* creates padding around scroll thumb */
+    border: 3px solid rgb(150, 150, 150);  
+}
