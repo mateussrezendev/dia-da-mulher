@@ -1,1 +1,94 @@
+body{
+    background-color: #ed6ced;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.5em;
+    color: black;
+}
 
+
+
+.titulo{
+    font-family: Arial, Helvetica, sans-serif;
+    color: darkmagenta;
+    font-size: 2em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.mulherestrabalho {
+	background-color: fa69ff;
+	color: white;
+	border: 2px solid black;
+	margin: 20px;
+	padding: 20px;
+}
+
+.ada {
+	background-color: f071f4;
+	color: white;
+	border: 2px solid black;
+	margin: 20px;
+	padding: 20px;
+}
+
+.data {
+	background-color: d88edb;
+	color: white;
+	border: 2px solid black;
+	margin: 20px;
+	padding: 20px;
+}
+
+.importantes {
+	background-color: f7bcf9;
+	color: white;
+	border: 2px solid black;
+	margin: 20px;
+	padding: 20px;
+}
+
+.frase {
+	background-color: e8bae9;
+	color: white;
+	border: 2px solid black;
+	margin: 20px;
+	padding: 20px;
+}
+
+.links {
+	background-color: efd8f0;
+	color: white;
+	border: 2px solid black;
+	margin: 20px;
+	padding: 20px;
+}
+
+.bodyiframe{
+    background-color: #ed5ced;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1em;
+}
+
+.div1 {
+	background-color: ff7dff	;
+	color: white;
+	border: 2px solid black;
+	margin: 20px;
+	padding: 20px;
+}
+
+.div2 {
+	background-color: #ffa8ff	;
+	color: white;
+	border: 2px solid black;
+	margin: 20px;
+	padding: 20px;
+}
+
+.imagem{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
